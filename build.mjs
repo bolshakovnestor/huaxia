@@ -53,6 +53,7 @@ function layout({ L, rel, page, title, desc, body, extraScripts = "", attrs = ""
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="color-scheme" content="light">
+<meta name="google-site-verification" content="wsR_HeGiT9pFbPfG0_PGTYII6OsCrjiWzViyUXaEInM">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
 <link rel="canonical" href="${SITE}${pathNoIdx}">
@@ -302,6 +303,7 @@ function rootPage() {
 <html lang="uk">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="light">
+<meta name="google-site-verification" content="wsR_HeGiT9pFbPfG0_PGTYII6OsCrjiWzViyUXaEInM">
 <title>华夏 · Довідник китайської культури · Chinese Culture Guide</title>
 <meta name="description" content="Інтерактивний довідник китайської культури українською та англійською. An interactive Chinese culture guide in Ukrainian and English.">
 <link rel="canonical" href="${SITE}">
