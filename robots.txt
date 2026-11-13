@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bolshakovnestor.github.io/huaxia/sitemap.xml
